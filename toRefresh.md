@@ -4,3 +4,5 @@ As you work through this exercise, write down anything that you needed to look u
 
 - How to sort a list
 - How to print an array
+- How to join together strings in a list into one string using a built-in method
+- 
